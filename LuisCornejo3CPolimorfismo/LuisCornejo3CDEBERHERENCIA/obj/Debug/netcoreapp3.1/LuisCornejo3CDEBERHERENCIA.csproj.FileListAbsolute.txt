@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\bin\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.exe
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\bin\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.deps.json
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\bin\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.runtimeconfig.json
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\bin\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.runtimeconfig.dev.json
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\bin\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.dll
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\bin\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.pdb
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.csproj.AssemblyReference.cache
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.AssemblyInfo.cs
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.dll
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.pdb
+C:\Users\corne\source\repos\LuisCornejo3CDEBERHERENCIA\LuisCornejo3CDEBERHERENCIA\obj\Debug\netcoreapp3.1\LuisCornejo3CDEBERHERENCIA.genruntimeconfig.cache
